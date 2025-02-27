@@ -7,7 +7,8 @@ Problem Statement:
 
 Understanding accident patterns can help improve road safety policies, insurance risk assessments, and vehicle safety regulations.
 
-Data Sources & Preparation
+Data Sources & Preparation:
+
 ✅ Primary Data:
 - NHTSA Datasets: Person, Accident, and Vehicle data
 - New York State Vehicle Registration Data
@@ -27,6 +28,7 @@ Data Sources & Preparation
 - Motorcycles are driven more by younger individuals, except for Harley Davidson, which is popular among older riders.
 
 🚗 Impact of This Analysis
-✅ Public Awareness: Helps drivers understand accident risks based on vehicle type and demographics.
-✅ Policy & Insurance Recommendations: Insurers and policymakers can use this data to adjust risk assessments.
-✅ Road Safety Improvements: Highlights areas where awareness campaigns or vehicle safety enhancements are needed.
+
+- Public Awareness: Helps drivers understand accident risks based on vehicle type and demographics.
+- Policy & Insurance Recommendations: Insurers and policymakers can use this data to adjust risk assessments.
+- Road Safety Improvements: Highlights areas where awareness campaigns or vehicle safety enhancements are needed.
